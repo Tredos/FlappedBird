@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlappedBird.CSharp", "FlappedBird.CSharp.csproj", "{5F5C9873-A4FE-51B6-3982-4EE528E31A51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlappedBird.CSharp.Editor", "FlappedBird.CSharp.Editor.csproj", "{183F761A-E866-F0ED-243F-958A2D8F1614}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F5C9873-A4FE-51B6-3982-4EE528E31A51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F5C9873-A4FE-51B6-3982-4EE528E31A51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F5C9873-A4FE-51B6-3982-4EE528E31A51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F5C9873-A4FE-51B6-3982-4EE528E31A51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{183F761A-E866-F0ED-243F-958A2D8F1614}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{183F761A-E866-F0ED-243F-958A2D8F1614}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{183F761A-E866-F0ED-243F-958A2D8F1614}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{183F761A-E866-F0ED-243F-958A2D8F1614}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
